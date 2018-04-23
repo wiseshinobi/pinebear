@@ -15,7 +15,7 @@ Here is a minimalist portfolio to help you save some time.
 When it comes to investing money, the duration of the investment
 strongly determines what type of investment is suitable.
 
-Keep some money in you savings bank account for day-to-day needs.
+A savings bank account is suitable for day-to-day needs.
 This is the most liquid form of investment, but it also offers the
 lowest interest rate. The current rate of interest offered by
 SBI is 3.5% which is lower than the inflation rate. That means
@@ -31,7 +31,8 @@ a sharp spike in the interest rate. When it comes to liquid funds, the
 total amount of money managed by the fund (AUM) matters.
 Pick one with a higher AUM. This enables a lower
 expense ratio and a higher degree of diversification which will
-lower credit risk.  Any of the top liquid funds by AUM size (ICICI / SBI / HDFC) will do.
+lower credit risk.  Any of the top liquid funds by AUM size
+(ICICI / SBI / HDFC etc.) will do.
 If you don't want the small risk that come with a liquid fund,
 pick an overnight fund such as the SBI Overnight Fund.
 It mostly lends for one night and takes on almost no risk at all.
@@ -60,9 +61,9 @@ time you could be spending on hobbies, family, or friends!
 While equity is the best bet for the long term, it is prudent
 to invest a small percentage in long term debt. For this, PPF is great.
 There is practically no risk of default, it is entirely tax exempt, and
-the interest rate will roughly follow the 10 year g-sec rates.
-Although ELSS can make sense for some, the PPF is more
-suited for getting tax exemption under Section 80C.
+the interest rate will roughly follow the 10 year g-sec rate.
+Although ELSS can make sense for some, PPF is more
+suitable for getting tax exemption under Section 80C.
 
 To summarize, keep your finances simple. For the short term (upto
 a year or two), park money in a liquid fund. Choose a low cost
