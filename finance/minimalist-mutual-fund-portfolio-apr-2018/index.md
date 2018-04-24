@@ -1,7 +1,7 @@
 # Minimalist Mutual Fund Portfolio
 *Apr 27, 2018*
 
-Everyone these days seem to be telling you not park
+Everyone these days seems to be telling you not park
 your savings in a fixed deposit and to instead
 invest in mutual funds. But which fund to invest in? Overwhelmed by the 
 sheer number of funds that seem to rival the number of listed stocks?
@@ -51,9 +51,9 @@ under your control (not the returns!). Second, it eliminates risk
 of the fund manager changing or the objective of the fund
 changing. This matters a lot now because of the 10% long term
 capital gains (LTCG) tax. Every time you switch funds, you have
-to pay 10% tax, which can dramatically reduce returns if you
+to pay 10% tax, which can dramatically reduce long term returns if you
 keep switching funds every other year (switching frequently is a
-terrible idea regardless of taxation, but ltcg tax makes it worse).
+terrible idea regardless of taxation, but LTCG tax makes it worse).
 Finally, and perhaps most importantly, choosing an index fund saves
 you time. All that time spent on researching different funds is 
 time you could be spending on hobbies, family, or friends!
