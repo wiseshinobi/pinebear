@@ -29,9 +29,8 @@ interest rate risk. Although this risk is small, be prepared to stay
 invested for at least a month in case the NAV of the fund falls due to
 a sharp spike in the interest rate. When it comes to liquid funds, the
 total amount of money managed by the fund (AUM) matters.
-Pick one with a higher AUM. This enables a lower
-expense ratio and a higher degree of diversification which will
-lower credit risk.  Any of the top liquid funds by AUM size
+Pick one with a higher AUM. This allows a higher degree of diversification
+which will lower credit risk.  Any of the top liquid funds by AUM size
 (ICICI / SBI / HDFC etc.) will do.
 If you don't want the small risk that come with a liquid fund,
 pick an overnight fund such as the SBI Overnight Fund.
