@@ -4,14 +4,18 @@ import re
 import os
 import jinja2
 
+site_name = 'Pinebear'
+site_base_url = 'https://www.pinebear.in/'
+
 def main():
     if len(sys.argv) != 3:
         print "Incorrent number of arguments.\n"
         print "Usage: python pagerender.py input.md template.html > output.html"
         print "Parse markdown and generate HTML."
         sys.exit(1)
-
     with open(sys.argv[1]) as f_ip:
+        template_name = sys.argv[2]
+        url = site_base_url + sys.argv[1].replace('.md', '.html').replace('index.html', '')
         content = markdown.markdown(f_ip.read(), extensions=['markdown.extensions.fenced_code', 'markdown.extensions.tables'], output_format='html5')
         for match in re.finditer(r'<img[^>]+src="([^"]+)"[^>]*>', content):
             img_tag = match.group(0)
@@ -29,7 +33,11 @@ def main():
             title = title.group(1)
         else:
             title = 'Pinebear'
-        rendered = jinja2.Environment(loader=jinja2.FileSystemLoader('./templates')).get_template(sys.argv[2]).render(content=content, title=title)
+        rendered = jinja2.Environment(loader=jinja2.FileSystemLoader('./templates')).get_template(template_name).render(
+            content=content,
+            title=title,
+            url=url
+        )
         print rendered
 
 if __name__ == '__main__':
