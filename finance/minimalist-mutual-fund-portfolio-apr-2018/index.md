@@ -1,5 +1,5 @@
 # Minimalist Mutual Fund Portfolio
-*Apr 27, 2018*
+*Apr 21, 2018*
 
 Everyone these days seems to be telling you not park
 your savings in a fixed deposit and to instead
