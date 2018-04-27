@@ -5,6 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>{{ title }}</title>
+        {% if desc %}<meta name="description" content="{{ desc }}"/>{% endif %}
         <link rel="amphtml" href="{{ url }}/amp/">
         <link rel="alternate" type="application/rss+xml" title="Pinebear" href="http://www.pinebear.in/atom.xml" />
         <style>

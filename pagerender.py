@@ -29,13 +29,13 @@ def main():
                 new_img_tag = '<a href="'+img_src+'">'+new_img_tag+'</a>'
             content = content.replace(img_tag, new_img_tag)
         title = re.search(r'<h1>([^<]+)</h1>', content)
-        if title:
-            title = title.group(1)
-        else:
-            title = 'Pinebear'
+        desc = re.search(r'<p>([^<]+)</p>', content)
+        title = title.group(1) if title else 'Pinebear'
+        desc = desc.group(1).replace('\n', ' ') if desc else ''        
         rendered = jinja2.Environment(loader=jinja2.FileSystemLoader('./templates')).get_template(template_name).render(
             content=content,
             title=title,
+            desc=desc,
             url=url
         )
         print rendered
