@@ -17,7 +17,8 @@ But, is this actually true?
 A number of top large cap funds are trailing the Nifty 50 index!
 Actively managed large cap used to easily outperform
 index funds in the past, which prompted many personal finance gurus
-to advise avoiding index funds altogether. But, what's happening now?
+to advise [avoiding](https://www.valueresearchonline.com/story/h2_storyView.asp?str=35462)
+index funds altogether. But, what's happening now?
 A huge change in the domestic equity market after demonetization
 in November 2016 is that large amounts of money from retail investors
 is flowing into equity via mutual fund SIPs (Systematic Investment Plan).
